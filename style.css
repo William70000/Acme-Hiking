@@ -230,6 +230,7 @@ nav h1:hover {
 
 .products img {
   width: 25%;
+  transition: 0.6s;
 }
 
 .products h1 {
